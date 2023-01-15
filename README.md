@@ -36,3 +36,21 @@ Here're some of the project's best features:
 *   Polling
 *   Chat
 *   Breakout Rooms
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   HTML5
+*   CSS
+*   React
+*   Kubernetes
+*   NodeJS
+*   WebRTC
+*   Docker
+*   NodeJS
+*   ExpressJS
+*   Redis
+*   MongoDB
